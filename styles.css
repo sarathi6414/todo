@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:500px
+}
+ul{
+    display: inline;
+}
+.container{
+    padding: 20px;
+    background-color: rgb(161, 161, 184);
+    height: 250px;
+    width: 250px;
+    padding-left: 80px;
+}
+.text{
+    text-decoration: line-through;
+}
+li{
+    list-style: none;
+}
